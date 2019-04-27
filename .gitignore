@@ -1,0 +1,14 @@
+
+Project-Code/.idea/coinrun.iml
+Project-Code/.idea/inspectionProfiles/Project_Default.xml
+Project-Code/.idea/misc.xml
+Project-Code/.idea/modules.xml
+Project-Code/.idea/vcs.xml
+Project-Code/.idea/workspace.xml
+*.Unimax-Laptop
+Project-Code/q_learning/save/checkpoint.pth
+Project-Code/q_learning/save/checkpoint.pth
+*.instance-1
+*.pth
+hs_err_pid24642.log
+Project-Code/q_learning/save/checkpoint.pth
