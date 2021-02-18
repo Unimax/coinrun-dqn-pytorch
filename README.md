@@ -1,4 +1,6 @@
-Coinrun Base code is taken from https://github.com/openai/coinrun
+In this project I have applied Q-learning on the environment Coinrun and shown the results I collected during the project. More specifically I have used Deep Q-Network (DQN) and its variant (DDQN) with the intention of understanding the strength and weakness of the different Deep Q-Learning techniques on a environment like coinrun.
+
+Coinrun Base game code is taken from https://github.com/openai/coinrun
 
 ![CoinRun](coinrun.png?raw=true "CoinRun")
 
